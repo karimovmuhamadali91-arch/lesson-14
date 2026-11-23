@@ -35,3 +35,14 @@
     width: 40%;
     line-height: 2;
 }
+.gh {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+}
+
+.box2 {
+    text-align: center;
+    width: 100%;
+}
