@@ -5,13 +5,33 @@
     align-items: center;
     color: rgb(16, 2, 99);
 }
+
 .box {
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 50px;
 }
+
 .h3 {
     width: 40%;
     line-height: 1.5;
+}
+
+.box1 {
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    line-height: 2;
+    gap: 50px;
+}
+.hh {
+    width: 40%;
+    color: rgb(143, 160, 175);
+    line-height: 2;
+}
+.bh {
+    color: rgb(21, 167, 211);
+    width: 40%;
+    line-height: 2;
 }
