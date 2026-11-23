@@ -5,3 +5,13 @@
     align-items: center;
     color: rgb(16, 2, 99);
 }
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+.h3 {
+    width: 40%;
+    line-height: 1.5;
+}
